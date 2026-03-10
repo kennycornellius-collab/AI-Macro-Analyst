@@ -1,0 +1,6 @@
+{
+    "primary_driver": "Monetary Policy",
+    "expected_volatility": "Extreme",
+    "market_regime": "Breakout",
+    "drl_agent_action": "Halt trading 2 hours before CPI m/m"
+}

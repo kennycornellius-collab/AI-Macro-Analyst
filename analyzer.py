@@ -58,16 +58,3 @@ def analyze_macro_environment(df):
         return response.text
     except Exception as e:
         return f"API Error: {e}"
-
-if __name__ == "__main__":
-    print("Starting AI Macro Analyst Pipeline\n")
-    
-    market_data = fetch_latest_calendar()
-    
-    if not market_data.empty:
-        analysis = analyze_macro_environment(market_data)
-        
-        print("\n" + "="*60)
-        print("                    MACROECONOMIC REPORT")
-        print("="*60 + "\n")
-        print(analysis)

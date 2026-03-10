@@ -12,9 +12,3 @@ def fetch_latest_calendar() -> pd.DataFrame:
         print(f"Error fetching data: {e}")
         print("Make sure the URL is correct and the repository is public.")
         return pd.DataFrame()
-
-if __name__ == "__main__":
-    market_data = fetch_latest_calendar()
-    if not market_data.empty:
-        print("\n--- Market Data Ready for LLM Processing ---")
-        print(market_data.to_string())
