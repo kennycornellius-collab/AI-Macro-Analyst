@@ -86,7 +86,7 @@ The system produces two outputs from each run:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/kennycornellius-collab/AI-Macro-Analyst.git
-cd your-repo-name
+cd AI-Macro-Analyst
 
 # 2. Install dependencies
 pip install pandas tabulate requests google-genai python-dotenv
