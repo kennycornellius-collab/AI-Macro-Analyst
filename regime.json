@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Monetary Policy",
-    "expected_volatility": "Extreme",
+    "primary_driver": "Employment & Economic Health",
+    "expected_volatility": "High",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 2 hours before Federal Funds Rate"
+    "drl_agent_action": "Halt trading 1 hour before Unemployment Claims and resume 1 hour after Flash Services PMI"
 }
