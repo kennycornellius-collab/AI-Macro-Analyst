@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Employment & Economic Health",
-    "expected_volatility": "High",
+    "primary_driver": "Monetary Policy",
+    "expected_volatility": "Extreme",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 1 hour before Unemployment Claims and resume 1 hour after Flash Services PMI"
+    "drl_agent_action": "Halt trading 2 hours before Non-Farm Employment Change"
 }
