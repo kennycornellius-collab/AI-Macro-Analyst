@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Monetary Policy",
+    "primary_driver": "Inflation & Monetary Policy",
     "expected_volatility": "Extreme",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 2 hours before Non-Farm Employment Change"
+    "drl_agent_action": "Halt trading 2 hours before CPI releases"
 }
