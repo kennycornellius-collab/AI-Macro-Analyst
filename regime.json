@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Inflation & Monetary Policy",
-    "expected_volatility": "Extreme",
+    "primary_driver": "Inflation",
+    "expected_volatility": "High",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 2 hours before CPI releases"
+    "drl_agent_action": "Halt trading 2 hours before PPI m/m"
 }
