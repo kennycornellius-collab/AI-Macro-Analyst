@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Inflation",
+    "primary_driver": "Consumer Spending & Monetary Policy",
     "expected_volatility": "High",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 2 hours before PPI m/m"
+    "drl_agent_action": "Halt trading 1 hour before Core Retail Sales m/m and resume 1 hour after Fed Chair-Designate Warsh Testifies"
 }
