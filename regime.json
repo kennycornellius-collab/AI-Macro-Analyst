@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Consumer Spending & Monetary Policy",
-    "expected_volatility": "High",
+    "primary_driver": "Monetary Policy & Inflation",
+    "expected_volatility": "Extreme",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 1 hour before Core Retail Sales m/m and resume 1 hour after Fed Chair-Designate Warsh Testifies"
+    "drl_agent_action": "Halt trading 2 hours before Federal Funds Rate and 1 hour before Advance GDP q/q"
 }
