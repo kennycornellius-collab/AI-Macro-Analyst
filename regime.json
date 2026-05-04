@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Monetary Policy & Inflation",
+    "primary_driver": "Employment & Inflation",
     "expected_volatility": "Extreme",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 2 hours before Federal Funds Rate and 1 hour before Advance GDP q/q"
+    "drl_agent_action": "Halt trading 2 hours before Non-Farm Employment Change"
 }
