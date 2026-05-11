@@ -1,6 +1,6 @@
 {
-    "primary_driver": "Employment & Inflation",
+    "primary_driver": "Inflation and Consumer Spending",
     "expected_volatility": "Extreme",
     "market_regime": "Breakout",
-    "drl_agent_action": "Halt trading 2 hours before Non-Farm Employment Change"
+    "drl_agent_action": "Halt trading 2 hours before 7:30 AM ET US economic data releases"
 }
